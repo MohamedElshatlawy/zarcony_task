@@ -1,0 +1,33 @@
+{
+  "status":1,
+  "data":[
+    {
+      "category_id":1,
+      "name":"Steak",
+      "color":"0xffF9BDAD"
+
+    },
+    {
+      "category_id":2,
+      "name":"Vegetables",
+      "color":"0xffFAD96D"
+
+    },
+    {
+      "category_id":3,
+      "name":"Beverages",
+      "color":"0xffCCB8FF"
+
+    },{
+      "category_id":4,
+      "name":"Fish",
+      "color":"0xffB0EAFD"
+
+    },{
+      "category_id":5,
+      "name":"Juice",
+      "color":"0xffFAD96D"
+
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+    "status":1,
+    "data":[
+        {
+            "id":1,
+            "category_id":1,
+            "name":"Turkish Steak",
+            "color":"0xffF9BDAD",
+            "regular_price": 25,
+            "on_sale": false,
+            "is_favourite": false,
+            "amount_details": "173 Grams"
+        },
+        {
+            "id":2,
+            "category_id":4,
+            "name":"Salmon",
+            "color":"0xffB0EAFD",
+            "regular_price": 30,
+            "on_sale": true,
+            "sale_price": 25,
+            "is_favourite": false,
+            "amount_details": "2 Serving"
+        },
+        {
+            "id":3,
+            "category_id":5,
+            "name":"Red Juice",
+            "color":"0xffFF9DC2",
+            "regular_price": 25,
+            "on_sale": false,
+            "is_favourite": false,
+            "amount_details": "1 Bottle"
+        },
+        {
+            "id":4,
+            "category_id":3,
+            "name":"Cola",
+            "color":"0xffCCB8FF",
+            "regular_price": 11,
+            "on_sale": true,
+            "sale_price": 8,
+            "is_favourite": false,
+            "amount_details": "1 Bottle"
+        }
+    ]
+}
